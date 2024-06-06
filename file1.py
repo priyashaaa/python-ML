@@ -1,2 +1,1 @@
-input("enter name:",name)
-print(name)
+print("hello world")
